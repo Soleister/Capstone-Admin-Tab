@@ -31,13 +31,10 @@ function App() {
                 </div>
                 <div className="flex flex-col items-center ml-4">
                   <h1 className="text-[30px] font-bold mb-[2rem]">LOGIN</h1>
-                  <InputField type="email" />
-                  <br />
-                  <InputField type="eye" />
+                  
+                  <EnterBox />
                   <br />
                   <RemForPass />
-                  <br />
-                  <EnterBox />
                 </div>
               </div>
             </div>

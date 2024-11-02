@@ -8,7 +8,7 @@ function SignOut() {
       <IoMdExit className="text-[22px] mr-2" />
 
       {/* Text on the right */}
-      <span className="font-semibold text-sm">SIGN OUT</span>
+      <span className="font-semibold text-sm">Sign Out</span>
     </div>
   );
 }
